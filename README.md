@@ -1,5 +1,7 @@
-# chimie-numerique
+# Chimie-numerique
+
 Sujets de travaux pratiques de module Chimie-numérique
+
 ## Sujets de travaux pratiques et projet
 - [Installation](installation.ipynb)
 - [TP 1 : Notebook Jupyter 1](TP1/tp1.ipynb)
