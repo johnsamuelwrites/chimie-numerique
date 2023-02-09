@@ -11,6 +11,7 @@ Sujets de travaux pratiques de module Chimie-numérique
 - John Samuel
 
 ## Archives and Releases
+- [Zenodo](https://doi.org/10.5281/zenodo.7625541)
 - [Release Notes](RELEASE.md)
 
 ## Licence
