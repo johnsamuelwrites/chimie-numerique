@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.090815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:02.862816Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 603,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.118815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.118815Z",
+      "mimetype": null,
+      "name": "queries",
+      "path": "queries",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.090815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:02.862816Z",
+      "mimetype": "text/markdown",
+      "name": "RELEASE.md",
+      "path": "RELEASE.md",
+      "size": 334,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.094815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.094815Z",
+      "mimetype": null,
+      "name": "TP3",
+      "path": "TP3",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.090815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.090815Z",
+      "mimetype": null,
+      "name": "TP1",
+      "path": "TP1",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.114815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.114815Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.098815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.098815Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.090815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:04.090815Z",
+      "mimetype": null,
+      "name": "TP2",
+      "path": "TP2",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.090815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:02.862816Z",
+      "mimetype": null,
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "size": 35149,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-06-01T13:52:04.114815Z",
+      "format": null,
+      "last_modified": "2023-06-01T13:52:02.862816Z",
+      "mimetype": null,
+      "name": "installation.ipynb",
+      "path": "installation.ipynb",
+      "size": 182489,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-06-01T13:52:04.118815Z",
+  "format": "json",
+  "last_modified": "2023-06-01T13:52:04.118815Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
