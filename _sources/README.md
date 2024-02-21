@@ -9,6 +9,7 @@ Sujets de travaux pratiques de module Chimie-numérique (2018-2022)
 - [TP 3 : Notebook Jupyter 3](TP3/tp3.ipynb)
 
 ## Academic Years
+This was part of the course work between the academic years 2018 and 2022. This is now replaced by the course [Data Science](https://github.com/johnsamuelwrites/DataScience).
 
 ## Author
 - John Samuel
