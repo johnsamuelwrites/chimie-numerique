@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-02-21T11:26:50.147361Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-02-21T11:26:48.571365Z",
+      "mimetype": null,
+      "name": "tp3.ipynb",
+      "path": "TP3/tp3.ipynb",
+      "size": 1286734,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-02-21T11:26:50.147361Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-02-21T11:26:50.147361Z",
+  "mimetype": null,
+  "name": "TP3",
+  "path": "TP3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
